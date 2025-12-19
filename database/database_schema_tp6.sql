@@ -1,9 +1,9 @@
--- ===================================================
+-- 
 -- PROJECT: UTH-ConfMS (Conference Management System)
 -- MODULE: TP6 - Decision Making (Ra Quyết Định)
 -- TÁC GIẢ: Member 6 (Quan Tran)
 -- TASK ID: DEV-8
--- ===================================================
+-- 
 
 -- 1. Bảng Bài Báo (Papers)
 -- Cập nhật trạng thái bài báo để phục vụ quy trình xét duyệt
