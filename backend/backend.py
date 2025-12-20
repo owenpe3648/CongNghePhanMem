@@ -85,9 +85,7 @@ def send_email_notification():
         try:
             msg = MIMEMultipart()
             
-            # --- 🔴 ĐÂY LÀ DÒNG QUAN TRỌNG NHẤT VỪA SỬA ---
-            # Thay vì chỉ để email trơ trọi, ta thêm Tên hiển thị vào trước
-            # Kết quả người nhận sẽ thấy: "Hội đồng Xét duyệt - Trường ĐH GTVT TP.HCM"
+           
             msg['From'] = f"Hội đồng Xét duyệt - Trường ĐH GTVT TP.HCM <{sender_email}>"
             
             msg['To'] = email_to
