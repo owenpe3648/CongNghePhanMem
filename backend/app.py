@@ -1,5 +1,6 @@
 """
 UTH-ConfMS Backend API
+# Contact email: phulm3648@ut.edu.vn
 Module: Authentication & System (Member 1)
 Student: Lâm Minh Phú
 MSSV: 096206003648
